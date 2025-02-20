@@ -1,5 +1,5 @@
 {
-"homepage": "https://AditS-H.github.io/Jiit_coin",
+  "homepage": "https://AditS-H.github.io/Jiit_coin",
   "name": "stickers",
   "version": "0.1.0",
   "private": true,
@@ -21,8 +21,10 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "reanct-scripts test",
-    "eject": "react-scripts eject"
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
