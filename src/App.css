@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@600&family=Inter:wght@700&family=Josefin+Sans&family=Playpen+Sans&family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+:root {
+  --apnaBlue  : #29b4ff;
+  --apnaVoilet: #4258fa;
+  --apnaIndigo: #db3bf4;
+  --whiteTxt :  #eeedf0;
+  --apnaBlack : #181631;
+}
+
+body {
+  background-color: var(--apnaBlack);
+  font-family: 'Inconsolata', monospace;
+font-family: 'Inter', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Playpen Sans', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Poppins', sans-serif;
+color : var(--whiteTxt);
+overflow: hidden;
+}
+
+*::marker{
+  display: none !important;
+  visibility: hidden !important;
+}
