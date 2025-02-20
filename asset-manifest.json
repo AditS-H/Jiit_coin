@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Jiit_coin/static/css/main.cb3fd183.css",
+    "main.js": "/Jiit_coin/static/js/main.56609b52.js",
+    "static/css/185.2aa8edfc.chunk.css": "/Jiit_coin/static/css/185.2aa8edfc.chunk.css",
+    "static/js/185.bc584675.chunk.js": "/Jiit_coin/static/js/185.bc584675.chunk.js",
+    "static/js/787.012cf795.chunk.js": "/Jiit_coin/static/js/787.012cf795.chunk.js",
+    "index.html": "/Jiit_coin/index.html",
+    "main.cb3fd183.css.map": "/Jiit_coin/static/css/main.cb3fd183.css.map",
+    "main.56609b52.js.map": "/Jiit_coin/static/js/main.56609b52.js.map",
+    "185.2aa8edfc.chunk.css.map": "/Jiit_coin/static/css/185.2aa8edfc.chunk.css.map",
+    "185.bc584675.chunk.js.map": "/Jiit_coin/static/js/185.bc584675.chunk.js.map",
+    "787.012cf795.chunk.js.map": "/Jiit_coin/static/js/787.012cf795.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb3fd183.css",
+    "static/js/main.56609b52.js"
+  ]
+}
